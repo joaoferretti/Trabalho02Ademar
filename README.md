@@ -35,7 +35,7 @@ expirarPontos($transacoes)
 somarPontos($transacoes)	
     Soma pontos válidos com reduce
 
-📄 Regras de Negócio
+Regras de Negócio
 
 Pontos nunca ficam negativos
 Cada categoria tem uma taxa de multiplicação:
